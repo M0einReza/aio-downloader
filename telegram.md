@@ -7,6 +7,31 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 23:22
+---
+
+## Persian_Trend_Official — post 13854
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13854_1778442736.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 رسانه عبری: نتانیاهو پس از دریافت پاسخ ایران با ترامپ تماس گرفت 💢شبکه ۱۴ اسرائیل گزارش داد بنیامین نتانیاهو جلسه‌ای با رهبران دروزی را متوقف کرده تا پس از دریافت پاسخ ایران، تماس تلفنی با دونالد ترامپ برقرار کند. ▪️جزئیاتی درباره محتوای پاسخ ایران یا محور…
+</div>
+
+## alonews — post 119153
+
+<div align="center">
+  <a href="telegram/content/alonews_119153_1778442736.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رسانه اسرائیلی : نتانیاهو بعدِ تماس تلفنی، جلسه‌ای با کابینه امنیتی گذاشته
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 23:18
 ---
 
