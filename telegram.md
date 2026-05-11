@@ -7,6 +7,99 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 01:13
+---
+
+## WithYashar — post 11010
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یاشارجان درود
+وقتت بخیر
+اینکه میگن قراره تو دیدار ترامپ و شی و از طرفی بصورت غیرمستقیم با پوتین در مورد تایوان و ایران و اوکراین معامله صورت بگیره درسته؟؟
+لطفا یه تحلیل کوچولو در این مورد برو
+ازبس که از اینور اونور این اخبار زرد و بی اساس. شنیدیم واقعا خسته ایم
+بعنوان یه ایرانی واژه خسته با ماها معنی میشه
+
+ممنونم ازت بابت کانال خوبت و اخبار کاملی که میذاری
+در پناه اهورای پاک🙏🙏🙏💚🤍♥️
+</div>
+
+## WithYashar — post 11009
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+من یکی با اینکه قبلا رفتار های اشتباهی در مقابل شما داشتم
+ولی الان واقعا قدر زحماتتونو میفهمم
+تنها ویسایی که باز میکنم ویسای شماست و ممنونم که واسمون وقت میزاری 🙏❤️
+</div>
+
+## WithYashar — post 11008
+
+
+
+
+## WithYashar — post 11007
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اخجون کلی ویس
+اخجون تحلیل😍
+</div>
+
+## Shin_Persian — post 5961
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+↩️ Quoted tweet: Shin ✓ @hey_itsmyturn Sun, 10 May 2026 21:01:49 UTC Another night with jet activity over Baghdad #Iraq 🇮🇶 ↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید. فارسی شبی دیگر با فعالیت جنگنده‌ها بر فراز بغداد #Iraq 🇮🇶 𝕏 · @shin_persian
+</div>
+
+## Shin_Persian — post 5960
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+↩️ Quoted tweet:
+Shin ✓ @hey_itsmyturn
+Sun, 10 May 2026 21:01:49 UTC
+
+Another night with jet activity over Baghdad #Iraq 🇮🇶
+
+↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.
+
+فارسی
+
+شبی دیگر با فعالیت جنگنده‌ها بر فراز بغداد #Iraq 🇮🇶
+
+𝕏 · @shin_persian
+</div>
+
+## FarsiVOA — post 217487
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217487_1778535839.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️بحران برق در ایران و نگرانی‌ها درباره آینده صادرات انرژی به افغانستان
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217486
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️پوشش ویژه | پرزیدنت ترامپ میزبان قهرمانان ملی فوتبال آمریکایی
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217485
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️دونالد ترامپ: پاسخ حکومت ایران به پیشنهاد صلح ایالات متحده را «پیشنهادی احمقانه» است
+@FarsiVOA
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 01:03
 ---
 
