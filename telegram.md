@@ -7,6 +7,183 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 22:13
+---
+
+## WithYashar — post 11093
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دوباره ترامپ یک خبرنگار دیگرو هم فیتیله پیچ میکنه اعصاب نداره امشب این بازیکن
+
+خبرنگار: تورم الان تو بالاترین سطح خودش توی ۳ سال گذشته هست. آیا سیاست‌های شما کار نمی‌کنن؟
+
+ترامپ: سیاست‌های من به طرز شگفت‌انگیزی کار می‌کنن! اگه به قبل از جنگ برگردین، تورم ۱.۷٪ بود. اگه می‌خوای این دیوانه‌ها سلاح هسته‌ای داشته باشن، پس تو آدم احمقی هستی و من تو رو خیلی خوب می‌شناسم!
+
+@withyashar
+</div>
+
+## WithYashar — post 11092
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ یک خبرنگار رو به توپ بست
+
+ترامپ: ما یک سالن رقص داریم که هزینه ساختش کمتر از بودجه هست. اینجا ساخته می‌شه. من اندازه‌اش رو دو برابر میکنم چون مشخصه که بهش نیاز داریم.
+
+خبرنگار: هزینه‌ش دو برابر شده
+
+ترامپ: من اندازه‌اش رو دو برابر کردم، آدم احمق! تو آدم باهوشی نیستی
+@withyashar
+</div>
+
+## mwarmonitor — post 8992
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🛰دفتر بودجه کنگره آمریکا (CBO) برآورد کرده است که پروژه «گنبد طلایی برای آمریکا» حدود ۱.۲ تریلیون دلار هزینه خواهد داشت تا طی ۲۰ سال توسعه، استقرار و بهره‌برداری شود؛ که تنها هزینه‌های خرید و تأمین تجهیزات آن کمی بیش از ۱ تریلیون دلار برآورد شده است.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341612
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341612_1778611402.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NOW: President Trump boards Air Force One en route to China for his high-stakes meeting with President Xi.
+</div>
+
+## IranIntlTV — post 336867
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336867_1778611403.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ هنگام خروج از کاخ سفید برای عزیمت به چین گفت فکر نمی‌کند آمریکا برای موضوع ایران به کمکی نیاز داشته باشد و افزود ایالات متحده این مسئله را یا به‌صورت مسالمت‌آمیز یا به شکلی دیگر حل خواهد کرد.
+
+ترامپ تاکید کرد جمهوری اسلامی از نظر نظامی شکست خورده و یا «کار درست را انجام خواهد داد» یا آمریکا «کار را تمام خواهد کرد».
+https://iranintl.com/202605129211
+</div>
+
+## IranIntlTV — post 336866
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336866_1778611404.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+۲۴ با فرداد فرحزاد
+@iranintltv
+</div>
+
+## Shin_Persian — post 5974
+
+<div align="center">
+  <a href="telegram/content/Shin_Persian_5974_1778611405.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Rapid Response 47 ✓ @RapidResponse47
+Tue, 12 May 2026 18:01:20 UTC
+
+.@POTUS: "It's very simple: Iran cannot have a nuclear weapon... We don't play games. They're not going to have a nuclear weapon."
+
+فارسی
+
+.@POTUS: "بسیار ساده است: ایران نمی‌تواند سلاح هسته‌ای داشته باشد... ما بازی نمی‌کنیم. آن‌ها قرار نیست سلاح هسته‌ای داشته باشند."
+
+𝕏 · @shin_persian
+</div>
+
+## FarsiVOA — post 217560
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217560_1778611407.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+امیر چاهکی در برنامه تفسیر خبر: چاره‌ای جز توافق وجود ندارد
+</div>
+
+## FarsiVOA — post 217559
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گفت‌و‌گو با پگی چانگ از بخش چینی صدای آمریکا درباره مهمترین موضوعات احتمالی که در دیدار پرزیدنت ترامپ و شی چین‌پینگ در جریان سفر پیش روی رئیس جمهوری آمریکا به چین مطرح خواهد شد.
+</div>
+
+## RadioFarda — post 157104
+
+<div align="center">
+  <img src="telegram/content/RadioFarda_157104_1778611408.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸دونالد ترامپ، رئیس‌جمهور آمریکا، پیش از سفر به پکن گفت که رئیس‌جمهور چین درباره جنگ ایران «نسبتاً خوب» عمل کرده است، اما واشینگتن به کمک او نیازی ندارد.
+
+🔸او روز سه‌شنبه در جمع خبرنگاران افزود که قرار است با شی جین‌پینگ «گفت‌وگویی طولانی» درباره ایران داشته باشد.
+
+🔸ترامپ تصریح کرد: «فکر نمی‌کنم ما به هیچ کمکی درباره ایران نیاز داشته باشیم. ما به هر شکلی که باشد پیروز خواهیم شد. یا به‌صورت مسالمت‌آمیز پیروز می‌شویم یا به شکل دیگری.»
+
+🔸رئیس‌جمهور آمریکا با اشاره به این که توان نظامی ایران در جنگ اخیر از بین رفته است، هشدار داد: ««ایران یا کار درست را انجام خواهد داد یا ما کار را تمام خواهیم کرد.»
+
+🔸او به جزئیات بیشتری درباره این هشدار اشاره نکرد، اما این اظهارات در حالی است که ترامپ پیشنهاد آخر ایران برای توافق پایان جنگ را در روزهای اخیر رد کرده و آن را «کاملا غیر قابل قبول» و «فوق‌العاده ضعیف» خوانده است.
+
+🔸رئیس‌جمهور آمریکا قرار است چهارشنبه برای دیداری رسمی وارد پایتخت چین شود. این سفر که قرار بود در ماه مارس انجام شود، به دلیل درگیری نظامی آمریکا و اسرائیل با ایران به تأخیر افتاد.
+
+@RadioFarda
+</div>
+
+## IranianMinds — post 20034
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ حرکت کرد به سمت چین
+
+@IranianMinds
+</div>
+
+## alonews — post 119565
+
+<div align="center">
+  <a href="telegram/content/alonews_119565_1778611408.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ امریکا رو به مقصد چین ترک کرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119564
+
+<div align="center">
+  <a href="telegram/content/alonews_119564_1778611409.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رویترز: عربستان سعودی در جریان جنگ، یک سری حملات تلافی‌جویانه بدون اطلاع‌رسانی علیه ایران انجام داده است،ارزیابی می‌شود که این حملات در اواخر مارس انجام شده‌اند. 
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119563
+
+<div align="center">
+  <a href="telegram/content/alonews_119563_1778611409.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: ما داریم یک سالن بزرگ می‌سازیم که هزینه‌اش از بودجه تعیین‌شده کمتر شده. همین‌جا ساخته می‌شود. من اندازه‌اش را دو برابر کردم چون مشخصاً به آن نیاز داریم.
+
+
+🔴خبرنگار: ولی هزینه‌اش هم دو برابر شده.
+
+
+🔴ترامپ جواب داد: چون من اندازه‌اش را دو برابر کردم، آدم احمق. تو آدم باهوشی نیستی
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 22:03
 ---
 
