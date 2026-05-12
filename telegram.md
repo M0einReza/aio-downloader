@@ -7,6 +7,181 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 19:45
+---
+
+## VahidOOnLine — post 239738
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239738_1778602532.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ اسحاق دار، وزیر امور خارجه پاکستان و وانگ یی، همتای چینی او، روز سه‌شنبه ۲۲ اردیبهشت، در تماسی تلفنی درباره تحولات منطقه و تلاش‌های میانجی‌گرانه اسلام‌آباد برای پایان دادن به درگیری‌های ایران گفتگو کردند.
+
+وزارت امور خارجه پاکستان در بیانیه‌ای اعلام کرد که هر دو طرف بر اهمیت تداوم آتش‌بس پایدار و تضمین تردد عادی از تنگه هرمز تاکید کردند. این گفتگو در آستانه دیدار سرنوشت‌ساز دونالد ترامپ و شی جین‌پینگ، رئیس‌جمهوری چین، انجام شد که قرار است اواخر هفته جاری در پکن برگزار شود. چین و پاکستان در این رایزنی، هماهنگی برای کاهش تنش‌های منطقه‌ای را مورد توجه قرار دادند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239737
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239737_1778602532.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دبیرکل شورای همکاری خلیج فارس اعلام کرد که نفوذ عناصر وابسته به سپاه پاسداران و برنامه‌ریزی آن‌ها برای اقدامات «خصمانه» را به‌شدت محکوم می‌کند.
+
+دبیرکل شورای همکاری خلیج‌ فارس افزود از هر اقدامی که کویت برای حفظ امنیت و ثبات خود اتخاذ کند، حمایت می‌کند.
+
+‌پیش‌تر نیز وزارت خارجه کویت اعلام کرد که سفیر جمهوری اسلامی را در پی نفوذ یک گروه وابسته به سپاه پاسداران به جزیره بوییان احضار کرده است.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8978
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸سناتور گراهام: ژنرال کِین، آیا شما از گزارش‌هایی مبنی بر اینکه پاکستان اجازه می‌دهد از پایگاه‌هایش برای استقرار هواپیماهای ایرانی استفاده شود، اطلاعی دارید؟
+🔹ژنرال کِین: قربان، من یک گزارش در این باره دیده‌ام.
+🔸سناتور گراهام: خب، آیا این گزارش دقیق است؟
+🔹ژنرال کِین: قربان، فکر می‌کنم با توجه به مسائل طبقه‌بندی شده مختلفی که دیده‌ام...
+🔸سناتور گراهام (میان کلام او): اجازه دهید فقط این را بگویم؛ اگر این گزارش دقیق باشد، با نقش پاکستان به عنوان یک میانجی صلح در تضاد است، قبول دارید؟
+🔹ژنرال کِین: قربان، من تمایلی ندارم بر اساس مذاکرات جاری و نقش پاکستان در این زمینه اظهار نظر کنم.
+🔸سناتور گراهام: ممنون. آقای وزیر هِگسِت، اگر یک میانجی اجازه دهد هواپیماهای شناسایی ایران در پایگاه‌های هوایی پاکستان مستقر شوند، به نظر شما این با میانجی‌گری منصفانه همخوانی دارد؟
+🔹وزیر هِگسِت: مجدداً عرض می‌کنم، من نمی‌خواهم در میانه این مذاکرات وارد شوم. من خواهان حداکثر اثربخشی برای...
+🔸سناتور گراهام (با تندی): اما من می‌خواهم! من می‌خواهم وسط این مذاکرات باشم. من به اندازه یک پرتاب دست هم به پاکستان اعتماد ندارم. اگر آن‌ها واقعاً هواپیماهای ایرانی را برای محافظت از دارایی‌های نظامی ایران در پایگاه‌های خود مستقر کرده‌اند، به من می‌گوید که شاید باید به دنبال شخص دیگری برای میانجی‌گری باشیم. تعجبی ندارد که این مذاکرات لعنتی به هیچ‌جا نمی‌رسد.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 8977
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_8977_1778602533.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سناتور لیندسی گراهام ؛ اگر این گزارش‌ها درست باشد، مستلزم بازنگری کامل در نقشی است که پاکستان به‌عنوان میانجی میان ایران، ایالات متحده و سایر طرف‌ها ایفا می‌کند. ‼️با توجه به برخی اظهارات پیشین مقام‌های دفاعی پاکستان علیه اسرائیل، اگر این موضوع صحت داشته…
+</div>
+
+## FoxNewsTwitter — post 341595
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341595_1778602535.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: Sen. Lindsey Graham unloads on Pakistan after reports claim the Middle East mediator allowed Iran to use their bases to park military aircraft.
+
+"I don't trust Pakistan as far as I can throw them. If they actually do have Iranian aircraft parked in Pakistan bases to protect Iranian military assets, that tells me we should be looking maybe for somebody else to mediate. No wonder this damn thing is going nowhere."
+</div>
+
+## FoxNewsTwitter — post 341594
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341594_1778602537.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: Senate Minority Leader Chuck Schumer lashes out at the White House, claiming the administration's policy decisions have left the nation vulnerable to the recent hantavirus outbreak.
+
+"The Trump administration's gutting of America's public health preparedness has made the recent hantavirus outbreak even more alarming."
+</div>
+
+## FoxNewsTwitter — post 341593
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341593_1778602538.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+RT @AmericaNewsroom: HANTAVIRUS OUTBREAK: @DrMarcSiegel breaks down the likelihood of human-to-human transmission in American communities as cruise passengers undergo medical observation.
+
+“This ship was like a petri dish where everybody came together... it only occurred because of very, very close quarters and conditions.”
+</div>
+
+## IranIntlTV — post 336844
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336844_1778602540.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دبیرکل شورای همکاری خلیج فارس اعلام کرد که نفوذ عناصر وابسته به سپاه پاسداران و برنامه‌ریزی آن‌ها برای اقدامات «خصمانه» را به‌شدت محکوم می‌کند.
+
+دبیرکل شورای همکاری خلیج‌ فارس افزود از هر اقدامی که کویت برای حفظ امنیت و ثبات خود اتخاذ کند، حمایت می‌کند.
+
+‌پیش‌تر نیز وزارت خارجه کویت اعلام کرد که سفیر جمهوری اسلامی را در پی نفوذ یک گروه وابسته به سپاه پاسداران به جزیره بوییان احضار کرده است.
+https://iranintl.com/202605128445
+</div>
+
+## IranIntlTV — post 336843
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336843_1778602540.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+با ادامه نارضایتی ترامپ از پاسخ تهران، ارم‌نیوز به نقل از منابع آمریکایی خبر داد واشینگتن به دنبال حمله به باقیمانده مراکز هسته‌ای ایران است تا قواعد جدیدی را به تهران تحمیل کند. سی‌ان‌ان هم خبر داد ترامپ در حال بررسی حمله به ایران پس از سفر به چین است.
+
+گزارشی از مجتبا پورمحسن
+@iranintltv
+</div>
+
+## FarsiVOA — post 217545
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فشارها برای کنار رفتن کی‌یر استارمر هر ساعت بیشتر می‌شود؛ ۸۴ نماینده حزب کارگر خواهان استعفا یا اعلام زمان خروج او شده‌اند، اما هنوز روند رسمی رقابت رهبری آغاز نشده است.
+</div>
+
+## DW_Farsi — post 124617
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 از کلاس درس تا چوبه دار؛ سرکوب نسل جوان در ایران
+
+🔺 گزارشی از آتفه چهارمحالیان
+
+در ماه‌های اخیر، پس از وقایع دی‌ماه ۱۴۰۴ و هم‌زمان با جنگ ایران با آمریکا و اسرائیل و تشدید فضای امنیتی در خیابان‌ها و دانشگاه‌ها، بار دیگر نوجوانان و جوانان ایران به یکی از هدف‌های اصلی سرکوب جمهوری اسلامی بدل شده‌اند.
+
+موج تازه بازداشت‌ها، پرونده‌سازی‌های امنیتی و اعدام‌ها نشان می‌دهد حاکمیت در مواجهه با بحران‌های سیاسی و نظامی، بار دیگر به سراغ نسلی رفته که در سال‌های اخیر به یکی از فعال‌ترین نیروهای اعتراض تبدیل شده است؛ نسلی که حکومت، صدا، شیوه زیست و خواست‌های او را در تعارض با نظم سیاسی می‌بیند.
+
+سازمان ملل اعلام کرده است که از آغاز جنگ اخیر تاکنون بیش از چهار هزار نفر در ایران با اتهام‌های امنیتی بازداشت شده‌اند و نهادهای حقوق بشری گزارش داده‌اند نوجوانان و جوانان نیز در میان بازداشت‌شدگان قرار داشته‌اند. گزارش‌های منتشرشده از شکنجه، ناپدیدسازی‌های قهری، اعترافات اجباری، مرگ در بازداشت و محاکمه‌های شتاب‌زده، تصویری از سرکوب نسلی ارائه می‌دهد که جمهوری اسلامی آن را بیش از هر زمان دیگری خارج از کنترل خود می‌بیند.
+
+در ماه‌های گذشته چندین نوجوان و جوان معترض در معرض اجرای حکم اعدام قرار گرفتند؛ پرونده‌هایی که به گفته نهادهای حقوق بشری بر پایه اعترافات ناشی از شکنجه شکل گرفته‌اند.
+
+📌 برای دسترسی کامل به گزارش به وبسایت دویچه‌وله فارسی مراجعه کنید.
+
+@dw_farsi
+</div>
+
+## Dirty_Kids — post 389324
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یه سر تیز رفتم اینستاگرام و واقعا ارزششو داشت جیغ میزنم از میزان جذابیت دو عزیز
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 119521
+
+<div align="center">
+  <a href="telegram/content/alonews_119521_1778602542.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈عکسهای گرفته شده، ورود زیردریایی مسلح به موشکهای بالستیک اتمی (SSBN) آلاسکا را به دریای مدیترانه نشان میدهد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 19:35
 ---
 
