@@ -7,6 +7,189 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 20:14
+---
+
+## VahidOOnLine — post 239744
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239744_1778604252.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ لیندزی گراهام، سناتور جمهوری‌خواه و از حامیان سرسخت سیاست‌های جنگی دولت ترامپ، روز سه‌شنبه ۲۲ اردیبهشت، از رئیس‌جمهوری آمریکا خواست تا در سفر به چین، موضعی قاطع در برابر پکن اتخاذ کند. گراهام طی یک جلسه استماع در سنا تاکید کرد که شی جین‌پینگ در حال حمایت هم‌زمان از روسیه و جمهوری اسلامی است.
+
+این سناتور کارولینای جنوبی با انتقاد از نقش چین در خرید مقادیر کلان نفت از ایران و روسیه، نسبت به عملکرد پاکستان نیز ابراز نارضایتی کرد. او با استناد به گزارش «سی‌بی‌اس نیوز» یادآوری کرد که اسلام‌آباد به هواپیماهای نظامی ایران اجازه داده است در فرودگاه‌های این کشور مستقر شوند.
+
+وزارت امور خارجه پاکستان با رد قاطعانه این ادعا، اعلام کرد که حضور هواپیماهای ایرانی و آمریکایی در خاک این کشور صرفا جهت تسهیل تردد تیم‌های دیپلماتیک و اداری مربوط به «مذاکرات اسلام‌آباد» پس از برقراری آتش‌بس بوده است. مقامات پاکستانی تاکید کردند که این پروازها هیچ ارتباطی با ترتیبات نظامی یا پشتیبانی جنگی ندارند. با این حال، گراهام هشدار داد که واشنگتن باید فشار بر متحدان و شرکای تجاری جمهوری اسلامی را به شدت افزایش دهد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239743
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239743_1778604254.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مقام‌های آمریکایی اعلام کردند نیروهای این کشور مانع عبور یک نفتکش با پرچم جمهوری مالت از تنگه هرمز شده‌اند.
+سخنگوی ستاد فرماندهی مرکزی آمریکا سنتکام؛ به الجزیره گفت نفتکش «آگیوس فانوریوس» به‌دلیل نقض محاصره دریایی، اجازه عبور پیدا نکرده است. به گفته او، این کشتی حامل نفت ایران نبوده است.
+مقام‌های آمریکایی همچنین اعلام کردند چند نفتکش دیگر نیز به‌دلیل نقض تحریم‌ها و محاصره اعمال‌شده علیه بنادر ایران، متوقف شده‌اند.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239742
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239742_1778604255.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+«اینترنت را قطع کردند تا صدای مردم خاموش شود.»
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8982
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇦🇹اتریش امروز دو فروند جنگنده Eurofighter Typhoon را برای شناسایی و رهگیری دو فروند هواپیمای PC-12 نیروی هوایی ایالات متحده که بدون مجوز وارد حریم هوایی این کشور شده بودند، به پرواز درآورد.
+✈️گزارش‌ها حاکی است که هواپیماهای United States Air Force پس از رهگیری، تغییر مسیر داده و در مونیخ فرود آمدند.
+
+@mwarmonitor
+</div>
+
+## IranIntlTV — post 336848
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/336848" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی اخبار شبانگاهی | سه‌شنبه ۲۲ اردیبهشت
+@iranintlTV
+</div>
+
+## ManotoTV — post 105361
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105361_1778604258.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مقام‌های آمریکایی اعلام کردند نیروهای این کشور مانع عبور یک نفتکش با پرچم جمهوری مالت از تنگه هرمز شده‌اند.
+سخنگوی ستاد فرماندهی مرکزی آمریکا سنتکام؛ به الجزیره گفت نفتکش «آگیوس فانوریوس» به‌دلیل نقض محاصره دریایی، اجازه عبور پیدا نکرده است. به گفته او، این کشتی حامل نفت ایران نبوده است.
+مقام‌های آمریکایی همچنین اعلام کردند چند نفتکش دیگر نیز به‌دلیل نقض تحریم‌ها و محاصره اعمال‌شده علیه بنادر ایران، متوقف شده‌اند.
+</div>
+
+## ManotoTV — post 105360
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105360_1778604259.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+«اینترنت را قطع کردند تا صدای مردم خاموش شود.»
+</div>
+
+## FarsiVOA — post 217549
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پیت هگست: برای همه سناریوهای تداوم مقابله با جمهوری اسلامی آمادگی داریم
+</div>
+
+## FarsiVOA — post 217548
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گفتگو با جمشید اسدی، اقتصاددان و کارشناس اقتصاد دیجیتالی، درباره چشم‌انداز بازار ارز در ایران و تداوم روند فزاینده قیمت دلار
+</div>
+
+## FarsiVOA — post 217547
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گفت‌و‌گو با یاسین اهوازی، کارشناس مسائل خاورمیانه، درباره چرایی و عواقب انتقال هواپیماهای نظامی جمهوری اسلامی به فرودگاه‌های پاکستان
+</div>
+
+## IranianMinds — post 20016
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20016_1778604262.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شما فک کن گوشی که کلا قیمتش هزار دلاره رو‌ تو ایران به شما میدن سه هزار دلار !!
+
+@IranianMinds
+</div>
+
+## manototv — post 105361
+
+<div align="center">
+  <a href="telegram/content/manototv_105361_1778604263.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مقام‌های آمریکایی اعلام کردند نیروهای این کشور مانع عبور یک نفتکش با پرچم جمهوری مالت از تنگه هرمز شده‌اند.
+سخنگوی ستاد فرماندهی مرکزی آمریکا سنتکام؛ به الجزیره گفت نفتکش «آگیوس فانوریوس» به‌دلیل نقض محاصره دریایی، اجازه عبور پیدا نکرده است. به گفته او، این کشتی حامل نفت ایران نبوده است.
+مقام‌های آمریکایی همچنین اعلام کردند چند نفتکش دیگر نیز به‌دلیل نقض تحریم‌ها و محاصره اعمال‌شده علیه بنادر ایران، متوقف شده‌اند.
+</div>
+
+## manototv — post 105360
+
+<div align="center">
+  <a href="telegram/content/manototv_105360_1778604264.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+«اینترنت را قطع کردند تا صدای مردم خاموش شود.»
+</div>
+
+## alonews — post 119531
+
+<div align="center">
+  <a href="telegram/content/alonews_119531_1778604267.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سناتور گراهام: اگر میانجی (پاکستان) اجازه می‌دهد هواپیماهای شناسایی در پایگاه‌های هوایی پاکستان پارک شوند، فکر می‌کنید این با نقش میانجی منصفانه سازگار است؟
+
+
+🔴وزیر جنگ هگستث: من نمی‌خواهم وسط این مذاکرات قرار بگیرم.
+
+
+🔴سناتور گراهام: خب، من می‌خواهم وسط این مذاکرات قرار بگیرم. من به پاکستان به اندازه‌ای که بتوانم آنها را پرتاب کنم اعتماد ندارم.
+
+
+🔴اگر واقعاً هواپیماهای ایرانی در پایگاه‌های پاکستانی برای محافظت از دارایی‌های نظامی ایران پارک شده‌اند، این به من می‌گوید که شاید باید به دنبال شخص دیگری برای میانجیگری باشیم. جای تعجب نیست که این لعنتی به جایی نمی‌رسد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119529
+
+<div align="center">
+  <a href="telegram/content/alonews_119529_1778604270.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سربازان روسی در حال استفاده از پهپاد رهگیر «یولکا» (Yolka) علیه پهپادهای اوکراینی هستند که براحتی با لانچر بسیار کوچک دستی به سرعت پرتاب میشود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119528
+
+<div align="center">
+  <a href="telegram/content/alonews_119528_1778604273.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزارت انرژی آمریکا ادعا کرد تصور می‌کند که تنگه هرمز تا اواخر ماه مه میلادی (۱۹ روز دیگر) بسته خواهد ماند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 20:06
 ---
 
