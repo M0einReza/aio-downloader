@@ -7,6 +7,115 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 18:36
+---
+
+## mwarmonitor — post 9042
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_9042_1778684785.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📝 این قاب تهوع‌آور، ویترینی از تکثیر ویروس‌هایی است که در لجن‌زار رانت و وقاحت رشد کرده‌اند؛ انگل‌هایی که با پاهای میلیاردی و مغزهای پوچ، روی صندلی‌های دانشگاهی تکیه زده‌اند که حتی آدرسش را هم «حضور ذهن ندارند». وقتی آن ملی‌پوش با پوزخندی ابلهانه از پاسخ به نام دانشگاهش عاجز می‌ماند، در واقع به ریشِ تمام استخوان‌خردکرده‌های علم و سواد شلیک می‌کند. این فاجعه فقط به زمین فوتبال ختم نمی‌شود؛ تزویرِ لزجی که در رگ‌های موجوداتی مثل آن مجریِ نجس‌زاده جریان دارد، وظیفه‌اش عادی‌سازی همین حماقتِ عریان و دکتری‌های پوشالیِ غیرحضوری است. این ویروس‌های بی‌سواد که خونِ بیت‌المال را می‌مکند و با وقاحت تمام از «تحصیلات عالیه» دم می‌زنند، نمادِ فروپاشیِ اخلاقی و فرهنگی هستند که در آن، هرچه متعفن‌تر باشی، عزیزتر و نورچشمی‌تر خواهی بود. شما نه قهرمان هستید و نه الگو، بلکه تنها زالوهایی هستید که در پیکره‌ی نیمه‌جان این ملت جا خوش کرده‌اید.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341643
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341643_1778684786.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: "Dr. Fauci's role in the cover-up was intentional."
+
+CIA whistleblower James Erdman III lays out the "cover-up" of the COVID pandemic, claiming scientists and analysts were skewed from the start, all stemming from Dr. Anthony Fauci.
+
+"Public health policy would have been very different had the American public been made aware that a virus from a lab in China was going to serve as the foundation for an emergency use authorization M-RNA products."
+</div>
+
+## pm_afshaa — post 90695
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+احسان افرشته امروز صبح توسط جمهوری تروریستی اسلامی اعدام شد 
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom 
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90694
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴پولیتیکو به نقل از یک مقام ارشد کاخ سفید: چین پیش از دیدار ترامپ به ایران فشار آورده تا با امریکا به توافق برسه
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 337005
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337005_1778684788.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رییس‌جمهور آمریکا پس از ۹ سال وارد پکن شد تا با رهبر جمهوری خلق چین، دیدار و گفت‌وگو کند. دونالد ترامپ می‌گوید در مورد ایران به کمک شی جین‌پینگ نیاز ندارد.
+
+سمیرا قرایی، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد
+@iranintltv
+</div>
+
+## FarsiVOA — post 217634
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217634_1778684790.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در ویدیوی منتشرشده در شبکه‌های اجتماعی، صدای تیراندازی در جمع خبرنگاران حاضر در ساختمان سنای فیلیپین شنیده می‌شود. این تیراندازی پس از آن رخ داد که حکم بازداشت رونالد دلا روزا، سناتور فیلیپینی، اعلام شد. دلا روزا برای جلوگیری از بازداشتش در ساختمان سنا مستقر شده بود. جزئیات دقیقی نسبت به هویت فرد تیرانداز اعلام نشده است.
+</div>
+
+## RadioFarda — post 157137
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸خبرگزاری بلومبرگ روز چهارشنبه در گزارشی نوشت که ناتو در حال برنامه‌ریزی است تا از نمایندگان چهار کشور حاشیه خلیج فارس برای شرکت در نشست آنکارا دعوت کند؛ نشستی که به گفته منابع آگاه از موضوع، انتظار می‌رود جنگ ایران و شکاف فزاینده میان اروپا و آمریکا بر گفت‌وگوهای…
+</div>
+
+## RadioFarda — post 157136
+
+<div align="center">
+  <img src="telegram/content/RadioFarda_157136_1778684791.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸خبرگزاری بلومبرگ روز چهارشنبه در گزارشی نوشت که ناتو در حال برنامه‌ریزی است تا از نمایندگان چهار کشور حاشیه خلیج فارس برای شرکت در نشست آنکارا دعوت کند؛ نشستی که به گفته منابع آگاه از موضوع، انتظار می‌رود جنگ ایران و شکاف فزاینده میان اروپا و آمریکا بر گفت‌وگوهای آن سایه بیندازد.
+
+🔸این چهار کشور شامل بحرین، کویت، قطر و امارات متحده عربی همگی عضو «ابتکار همکاری استانبول» هستند؛ چارچوبی برای همکاری میان ناتو و کشورهای غیرعضو در منطقه خاورمیانه.
+
+🔸منابع بلومبرگ که به دلیل محرمانه بودن مذاکرات نخواستند نامشان فاش شود، گفته‌اند انتظار می‌رود وزیران خارجه این کشورها برای شرکت در نشست روزهای هفتم و هشتم ژوئیه در پایتخت ترکیه دعوت شوند.
+
+🔸دفتر مطبوعاتی ناتو از اظهار نظر در این‌باره خودداری کرده است.
+
+🔸این نشست در حالی برگزار می‌شود که تنش‌های فراآتلانتیکی بر سر جنگ ایران افزایش یافته است. دونالد ترامپ، رئیس‌جمهور آمریکا، از متحدان واشینگتن در ناتو به دلیل کمک نکردن به بازگشایی تنگه هرمز انتقاد کرد و سپس از خروج حدود پنج‌هزار نیروی نظامی از آلمان خبر داد.
+
+@RadioFarda
+</div>
+
+## IranianMinds — post 20074
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 پولیتیکو به نقل از یک مقام ارشد کاخ سفید:
+
+چین پیش از دیدار ترامپ به ایران فشار آورده تا به توافق برسد با آمریکا.
+
+@IranianMinds
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 18:25
 ---
 
