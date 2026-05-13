@@ -28,7 +28,7 @@ jobs:
       - name: "Checkout repository"
         uses: actions/checkout@v4
 
-      # Python for MHTML
+      # ── Python setup (MHTML) ────────────────────
       - name: "Set up Python"
         if: github.event.inputs.capture_mhtml == 'true'
         uses: actions/setup-python@v5
@@ -39,7 +39,7 @@ jobs:
         if: github.event.inputs.capture_mhtml == 'true'
         run: pip install pyppeteer
 
-      # Node.js for PDF
+      # ── Node.js setup (PDF) ─────────────────────
       - name: "Set up Node.js"
         if: github.event.inputs.capture_pdf == 'true'
         uses: actions/setup-node@v4
@@ -61,29 +61,32 @@ jobs:
         run: |
           sudo apt-get update && sudo apt-get install -y ghostscript
 
-      # Process each URL line
+      # ── Process all URLs ────────────────────────
       - name: "Process all URLs – MHTML"
         if: github.event.inputs.capture_mhtml == 'true'
         run: |
           while IFS= read -r url; do
-            url="$(echo "$url" | xargs)"   # trim whitespace
-            [ -z "$url" ] && continue       # skip empty lines
+            url="$(echo "$url" | xargs)"
+            [ -z "$url" ] && continue
             echo "→ MHTML: $url"
-            python .github/script/website-capture-mhtml.py --url "$url"
+            python .github/scripts/website-capture-mhtml.py --url "$url"
           done <<< "${{ github.event.inputs.urls }}"
 
       - name: "Process all URLs – PDF"
         if: github.event.inputs.capture_pdf == 'true'
         run: |
+          mkdir -p website
           while IFS= read -r url; do
             url="$(echo "$url" | xargs)"
             [ -z "$url" ] && continue
             echo "→ PDF: $url"
             node .github/script/website-capture-pdf.js "$url"
+            # Move the generated PDF into website/
+            mv -- *.pdf website/ 2>/dev/null || true
           done <<< "${{ github.event.inputs.urls }}"
 
-      # Commit everything (only if files exist)
-      - name: "Commit and push downloads"
+      # ── Commit & push only 'website/' folder ────
+      - name: "Commit and push captures"
         if: always() && (github.event.inputs.capture_mhtml == 'true' || github.event.inputs.capture_pdf == 'true')
         env:
           BRANCH: ${{ github.ref_name }}
@@ -92,11 +95,12 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config http.postBuffer 524288000
 
-          if [ -d "download" ] && [ "$(ls -A download 2>/dev/null)" ]; then
-            git add download/
-          fi
+          # Add the website folder only if it has files
           if [ -d "website" ] && [ "$(ls -A website 2>/dev/null)" ]; then
             git add website/
+          else
+            echo "No files found in website/ – skipping commit."
+            exit 0
           fi
 
           if git diff --cached --quiet; then
