@@ -7,7 +7,6 @@ on:
         description: >
           Enter one or more Spotify / SoundCloud URLs (track, album, playlist, artist).
           Separate by commas, spaces, or newlines.
-          SOUNDCLOUD_CLIENT_ID IS NEEDED IF FAILS!
         required: true
         type: string
       output_format:
@@ -51,7 +50,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # ==================================================================
-      # 2. INSTALL DEPENDENCIES
+      # 2. INSTALL DEPENDENCIES (Ensure latest spotdl)
       # ==================================================================
       - name: Install Dependencies
         shell: bash
@@ -62,9 +61,9 @@ jobs:
           sudo apt-get install -y -qq ffmpeg curl jq zip python3 python3-pip
           echo "::endgroup::"
 
-          echo "::group::Python tools"
+          echo "::group::Python tools (upgrading to latest spotdl)"
           pip3 install --quiet --upgrade pip
-          pip3 install --quiet spotdl scdl
+          pip3 install --quiet --upgrade spotdl scdl
           echo "::endgroup::"
 
           echo "::group::Versions"
@@ -88,14 +87,12 @@ jobs:
         shell: bash
         run: |
           RAW="${{ github.event.inputs.urls }}"
-          # Normalise separators
           URLS=$(echo "$RAW" | tr ',' ' ' | tr '\n' ' ' | tr -s ' ' | sed 's/^ *//;s/ *$//')
           if [ -z "$URLS" ]; then
             echo "::error::No URLs provided."
             exit 1
           fi
 
-          # Clear any leftover files
           rm -f spotify_urls.txt soundcloud_urls.txt
 
           for url in $URLS; do
@@ -108,7 +105,6 @@ jobs:
             fi
           done
 
-          # Show what we've got
           echo "::group::Spotify URLs"
           cat spotify_urls.txt 2>/dev/null || echo "(none)"
           echo "::endgroup::"
@@ -116,7 +112,6 @@ jobs:
           cat soundcloud_urls.txt 2>/dev/null || echo "(none)"
           echo "::endgroup::"
 
-          # Tell subsequent steps if the files exist
           if [ -s spotify_urls.txt ]; then
             echo "HAS_SPOTIFY=true" >> $GITHUB_OUTPUT
           else
@@ -138,7 +133,7 @@ jobs:
           FORMAT="${{ github.event.inputs.output_format }}"
           QUALITY="${{ github.event.inputs.audio_quality }}"
           FAILED="failed_urls.txt"
-          rm -f "$FAILED"   # start fresh
+          rm -f "$FAILED"
 
           echo "::group::Spotify download config"
           echo "Format : $FORMAT"
@@ -146,17 +141,17 @@ jobs:
           echo "Folder : music/"
           echo "::endgroup::"
 
-          # Process each Spotify URL individually
           while IFS= read -r url; do
             [ -z "$url" ] && continue
             echo "::group::Downloading: $url"
 
-            if spotdl download \
-                 --output "music/" \
-                 --format "$FORMAT" \
+            # CORRECTED spotdl v4 COMMAND
+            # Uses `--bitrate` for quality and `--output` with a template
+            # to place files in the music/ directory.
+            if spotdl download "$url" \
+                 --output "music/{artist} - {title}.{output-ext}" \
                  --bitrate "$QUALITY" \
-                 --threads 4 \
-                 "$url"; then
+                 --threads 4; then
               echo "✓ Success"
             else
               echo "✗ Failed – recording URL"
@@ -166,7 +161,6 @@ jobs:
             echo "::endgroup::"
           done < spotify_urls.txt
 
-          # Summary
           echo "::group::Spotify summary"
           ls -lh music/ 2>/dev/null || echo "No files"
           if [ -f "$FAILED" ]; then
@@ -187,12 +181,11 @@ jobs:
           SOUNDCLOUD_CLIENT_ID: ${{ secrets.SOUNDCLOUD_CLIENT_ID }}
         run: |
           if [ -z "$SOUNDCLOUD_CLIENT_ID" ]; then
-            echo "::error::SOUNDCLOUD_CLIENT_ID secret is not set. Skipping SoundCloud."
-            exit 0   # we continue so the workflow doesn't fail entirely
+            echo "::warning::SOUNDCLOUD_CLIENT_ID secret is not set. Skipping SoundCloud."
+            exit 0
           fi
 
           FAILED="failed_urls.txt"
-          # Keep existing failed file from Spotify step (if any) so we append to it
           echo "::group::SoundCloud download config"
           echo "Output path: music/"
           echo "Client ID  : (hidden)"
@@ -219,7 +212,7 @@ jobs:
           echo "::group::SoundCloud summary"
           ls -lh music/ 2>/dev/null || echo "No files"
           if [ -f "$FAILED" ] && grep -q 'soundcloud' "$FAILED" 2>/dev/null; then
-            echo "::warning::Some SoundCloud downloads failed (see below)"
+            echo "::warning::Some SoundCloud downloads failed"
           fi
           echo "::endgroup::"
 
@@ -230,7 +223,6 @@ jobs:
         if: always()
         shell: bash
         run: |
-          # This step always runs, even if previous ones failed
           if [ -f failed_urls.txt ] && [ -s failed_urls.txt ]; then
             echo "::warning::Some downloads failed. Adding failed_downloads.txt to the zip."
             cp failed_urls.txt music/failed_downloads.txt
@@ -244,7 +236,6 @@ jobs:
       - name: Validate Download
         shell: bash
         run: |
-          # Count only audio files (ignore the txt if present)
           SONG_COUNT=$(find music -type f ! -name 'failed_downloads.txt' | wc -l)
           if [ "$SONG_COUNT" -eq 0 ]; then
             echo "::error::No audio files were downloaded. Exiting."
@@ -264,7 +255,6 @@ jobs:
           ZIP_NAME="music_${RAND5}.zip"
           echo "Zip name: $ZIP_NAME"
 
-          # Move all contents of music/ to a clean staging folder
           mkdir -p release_files
           if [ "$(ls -A music/ 2>/dev/null)" ]; then
             mv music/* release_files/ 2>/dev/null || true
