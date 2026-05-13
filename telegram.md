@@ -7,6 +7,87 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 20:44
+---
+
+## VahidOOnLine — post 239951
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239951_1778692451.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک استاد ایرانی-آمریکایی دانشگاه آرکانزاس که اواخر ماه مارس به‌دلیل «فعالیت‌هایی در طرفداری از علی خامنه‌ای رهبر کشته‌شده جمهور اسلامی» از موقعیت رسمی خود برکنار شد، اکنون با تحقیقاتی درباره احتمال تخلفات علمی مواجه است.
+
+انتشارات دانشگاه کمبریج که کتاب شیرین سعیدی، استاد ایرانی-آمریکایی دانشگاه آرکانزاس را منتشر کرده، در حال بررسی اتهاماتی است مبنی بر اینکه این اثر شامل مصاحبه‌های جعلی یا بدون مجوز با زنان قربانی حکومت ایران است. این کتاب بر پایه رساله دکترای شیرین سعیدی نوشته شده است.
+
+ایران‌اینترنشنال دریافته است که دانشگاه کمبریج نیز در حال بررسی رساله دکترای سعیدی به‌دلیل احتمال تقلب است.
+
+دکتر جی سیلوریا، رییس دانشگاه آرکانزاس، سعیدی را به دلایلی غیرمرتبط با تحقیقات کمبریج اخراج کرده است. او این تصمیم را به هیات امنای دانشگاه ابلاغ کرده و قرار است این هیات در ۲۱ مه پرونده اخراج او را بررسی کند.
+
+کتاب سعیدی با عنوان «زنان و جمهوری اسلامی: چگونه شهروندی جنسیتی دولت ایران را شکل می‌دهد» اکنون در بریتانیا زیر ذره‌بین قرار دارد.
+
+ادامه این گزارش را در وبسایت ایران‌اینترنشنال بخوانید
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 9047
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 فوری: بنیامین نتانیاهو به‌طور محرمانه به امارات متحده عربی سفر کرده و در جریان عملیات «شیر غران» علیه ایران با محمد بن زاید دیدار کرده است. i24 news
+
+@mwarmonitor
+</div>
+
+## pm_afshaa — post 90701
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90701_1778692451.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اکانت اسرائیل به فارسی:وقتی به زودی به اسرائیل سفر کنید، این منظره زیبا از پنجره هواپیما در انتظار شماست. به امید دیدار شما در تل‌آویو یا تهران
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 337032
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337032_1778692453.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تیتر اول با نیوشا صارمی، چهارشنبه ۲۳ اردیبهشت
+@iranintltv
+</div>
+
+## alonews — post 119787
+
+<div align="center">
+  <a href="telegram/content/alonews_119787_1778692455.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سرباز اوکراینی با دوش پرتاب FN-16 چینی مشاهده شد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119786
+
+<div align="center">
+  <a href="telegram/content/alonews_119786_1778692455.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈هفتمین رأی‌گیری در سنا برای پایان جنگ علیه ایران شکست خورد 
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 20:37
 ---
 
