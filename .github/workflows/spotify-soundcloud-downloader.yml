@@ -7,6 +7,7 @@ on:
         description: >
           Enter one or more Spotify / SoundCloud URLs (track, album, playlist, artist).
           Separate by commas, spaces, or newlines.
+          SOUNDCLOUD_CLIENT_ID IS NEEDED IF FAILS!
         required: true
         type: string
       output_format:
