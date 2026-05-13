@@ -7,6 +7,23 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 05:43
+---
+
+## IranianMinds — post 20049
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20049_1778638395.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 پست‌ جدید ترامپ:
+
+من تورو‌ میخوام !
+
+@IranianMinds
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 05:35
 ---
 
